@@ -2,7 +2,7 @@
 
 Federal civil litigation in US district courts — everything not captioned `United States v. ...`. The largest categories are prisoner civil rights and habeas petitions, then civil rights employment, product liability and contract.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1573+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
 
 No API key.
 
@@ -84,7 +84,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1573+ data sources. The
+Both URLs reach the same gateway and the same 1576+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
