@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-federal-civil",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Federal civil litigation — US federal court dockets.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-633f004bd576abf22b56a039e8a731906999d9cb6192dc8f0e00fa041b85e904",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-beb40341c2fce9b36cfe7c573f32b0c9aa6793996ee36d932ed55dea766078da",
+    "sourceCommit": "32aab95bb6e89ecc0f84597573d405a8a22cb609"
   }
 }
