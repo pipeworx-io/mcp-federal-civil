@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-federal-civil",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Federal civil litigation — US federal court dockets.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "federal-civil",
     "gatewaySlug": "federal-civil",
-    "sourceHash": "v1-485b75d01973dc5041d069b9243935f8432dcd6cae86bbcc84a43c443e10552c",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-ab4012da9ded07c070555b5480afa6bfa7775830fdb6915e8535400cb12bd77f",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
